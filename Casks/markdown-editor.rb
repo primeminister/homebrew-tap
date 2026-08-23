@@ -7,7 +7,7 @@ cask "markdown-editor" do
   desc "Simple two-pane markdown editor with live HTML preview"
   homepage "https://github.com/primeminister/markdown-editor"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "MarkdownEditor.app"
 end
