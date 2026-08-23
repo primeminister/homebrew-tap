@@ -1,6 +1,6 @@
 cask "markdown-editor" do
-  version "1.1.4"
-  sha256 "c51628297e7260c18a2840db2701114d5ca22459340d98126cf4c8244295cb1c"
+  version "1.1.5"
+  sha256 "f8a97da967b1d0349d652a591968e0926d5b9eb2d7582e7d8f608ce92e7e68ce"
 
   url "https://github.com/primeminister/markdown-editor/releases/download/#{version}/MarkdownEditor-#{version}.zip"
   name "MarkdownEditor"
